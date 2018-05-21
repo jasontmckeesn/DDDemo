@@ -55,16 +55,16 @@
         <sys_created_by>jason.mckee</sys_created_by>
         <sys_created_on>2018-05-21 20:08:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>bb7c15501352970084a1d8228144b04d</sys_id>
+        <sys_id>f94ddd501352970084a1d8228144b040</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ddd052118_expense_report</sys_name>
         <sys_package display_value="DD Demo" source="x_snc_ddd052118">2087959c1312970084a1d8228144b015</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DD Demo">2087959c1312970084a1d8228144b015</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_ddd052118_expense_report_null</sys_update_name>
-        <sys_updated_by>jason.mckee</sys_updated_by>
-        <sys_updated_on>2018-05-21 20:08:53</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_ddd052118_expense_report_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-21 20:12:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
