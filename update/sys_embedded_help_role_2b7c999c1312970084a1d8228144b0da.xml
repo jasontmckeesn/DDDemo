@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_ddd052118.expense_report_user" name="x_snc_ddd052118.expense_report_user">e77c999c1312970084a1d8228144b0d8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jason.mckee</sys_created_by>
+        <sys_created_on>2018-05-21 20:08:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2b7c999c1312970084a1d8228144b0da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e77c999c1312970084a1d8228144b0d8</sys_name>
+        <sys_package display_value="DD Demo" source="x_snc_ddd052118">2087959c1312970084a1d8228144b015</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DD Demo">2087959c1312970084a1d8228144b015</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2b7c999c1312970084a1d8228144b0da</sys_update_name>
+        <sys_updated_by>jason.mckee</sys_updated_by>
+        <sys_updated_on>2018-05-21 20:08:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
